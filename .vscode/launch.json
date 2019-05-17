@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Sharkfin (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Sharkfin Win64 Debug Build",
+			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Binaries\\Win64\\Sharkfin-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Sharkfin (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Sharkfin Win64 DebugGame Build",
+			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Binaries\\Win64\\Sharkfin-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Sharkfin (Development)",
+			"request": "launch",
+			"preLaunchTask": "Sharkfin Win64 Development Build",
+			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Binaries\\Win64\\Sharkfin.exe",
+			"args": [
+			],
+			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Sharkfin (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "Sharkfin Win64 Shipping Build",
+			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Binaries\\Win64\\Sharkfin-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Sharkfin (Test)",
+			"request": "launch",
+			"preLaunchTask": "Sharkfin Win64 Test Build",
+			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Binaries\\Win64\\Sharkfin-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "SharkfinEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "SharkfinEditor Win64 Debug Build",
+			"program": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Sharkfin.uproject"
+			],
+			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "SharkfinEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "SharkfinEditor Win64 DebugGame Build",
+			"program": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Sharkfin.uproject"
+			],
+			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "SharkfinEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "SharkfinEditor Win64 Development Build",
+			"program": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Sharkfin.uproject"
+			],
+			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Sharkfin.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\program files\\Epic Games\\UE_4.21"
+		}
+	]
+}
