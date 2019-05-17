@@ -5,7 +5,7 @@
 			"name": "Sharkfin (Debug)",
 			"request": "launch",
 			"preLaunchTask": "Sharkfin Win64 Debug Build",
-			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Binaries\\Win64\\Sharkfin-Win64-Debug.exe",
+			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-New\\Binaries\\Win64\\Sharkfin-Win64-Debug.exe",
 			"args": [
 			],
 			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
@@ -18,7 +18,7 @@
 			"name": "Sharkfin (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "Sharkfin Win64 DebugGame Build",
-			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Binaries\\Win64\\Sharkfin-Win64-DebugGame.exe",
+			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-New\\Binaries\\Win64\\Sharkfin-Win64-DebugGame.exe",
 			"args": [
 			],
 			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
@@ -31,7 +31,7 @@
 			"name": "Sharkfin (Development)",
 			"request": "launch",
 			"preLaunchTask": "Sharkfin Win64 Development Build",
-			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Binaries\\Win64\\Sharkfin.exe",
+			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-New\\Binaries\\Win64\\Sharkfin.exe",
 			"args": [
 			],
 			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
@@ -44,7 +44,7 @@
 			"name": "Sharkfin (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "Sharkfin Win64 Shipping Build",
-			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Binaries\\Win64\\Sharkfin-Win64-Shipping.exe",
+			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-New\\Binaries\\Win64\\Sharkfin-Win64-Shipping.exe",
 			"args": [
 			],
 			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
@@ -57,7 +57,7 @@
 			"name": "Sharkfin (Test)",
 			"request": "launch",
 			"preLaunchTask": "Sharkfin Win64 Test Build",
-			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Binaries\\Win64\\Sharkfin-Win64-Test.exe",
+			"program": "C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-New\\Binaries\\Win64\\Sharkfin-Win64-Test.exe",
 			"args": [
 			],
 			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
@@ -72,7 +72,7 @@
 			"preLaunchTask": "SharkfinEditor Win64 Debug Build",
 			"program": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
-				"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Sharkfin.uproject"
+				"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-New\\Sharkfin.uproject"
 			],
 			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
 			"stopAtEntry": false,
@@ -86,7 +86,7 @@
 			"preLaunchTask": "SharkfinEditor Win64 DebugGame Build",
 			"program": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Sharkfin.uproject"
+				"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-New\\Sharkfin.uproject"
 			],
 			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
 			"stopAtEntry": false,
@@ -100,7 +100,7 @@
 			"preLaunchTask": "SharkfinEditor Win64 Development Build",
 			"program": "C:\\program files\\Epic Games\\UE_4.21\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Sharkfin.uproject"
+				"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-New\\Sharkfin.uproject"
 			],
 			"cwd": "C:\\program files\\Epic Games\\UE_4.21",
 			"stopAtEntry": false,
@@ -117,7 +117,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=\"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-Source\\Sharkfin.uproject\"",
+				"-project=\"C:\\Users\\mxmoo\\Documents\\Unreal Projects\\Sharkfin-New\\Sharkfin.uproject\"",
 				"-game",
 				"-engine"
 			],

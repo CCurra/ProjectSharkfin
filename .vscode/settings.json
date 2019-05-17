@@ -1,9 +1,9 @@
 {
 	"files.exclude": {
-		"C:/Users/mxmoo/Documents/Unreal Projects/Sharkfin-Source/.git": true,
-		"C:/Users/mxmoo/Documents/Unreal Projects/Sharkfin-Source/.vscode": true,
-		"C:/Users/mxmoo/Documents/Unreal Projects/Sharkfin-Source/Content": true,
-		"C:/Users/mxmoo/Documents/Unreal Projects/Sharkfin-Source/Intermediate": true,
-		"C:/Users/mxmoo/Documents/Unreal Projects/Sharkfin-Source/Saved": true
+		"C:/Users/mxmoo/Documents/Unreal Projects/Sharkfin-New/.git": true,
+		"C:/Users/mxmoo/Documents/Unreal Projects/Sharkfin-New/.vscode": true,
+		"C:/Users/mxmoo/Documents/Unreal Projects/Sharkfin-New/Content": true,
+		"C:/Users/mxmoo/Documents/Unreal Projects/Sharkfin-New/Intermediate": true,
+		"C:/Users/mxmoo/Documents/Unreal Projects/Sharkfin-New/Saved": true
 	}
 }
